@@ -2,7 +2,7 @@
     "item": [
         {
             "image": "images/1.jpg",
-            "title": "This is the first item.",
+            "title": "Arc Reactor",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur autem.",
             "link": "Visit website",
             "linkUrl": "#!"
