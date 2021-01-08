@@ -1,7 +1,7 @@
 title: My awesome list
 baseURL: /
 params:
-  logo: My awesome list
+  logo: Superhero720
 disableKinds:
   - RSS
   - taxonomy
