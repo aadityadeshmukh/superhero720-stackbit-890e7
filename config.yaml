@@ -1,0 +1,8 @@
+title: My awesome list
+baseURL: /
+params:
+  logo: My awesome list
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
